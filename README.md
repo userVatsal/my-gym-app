@@ -1,3 +1,18 @@
+# My Gym App
+
+A Next.js web application that generates a personalized weekly gym workout plan tailored for a 70kg, 177cm tall, Indian vegetarian with an endomorph body type, aiming for body recomposition.
+
+## Getting Started
+
+1. **Prerequisites**:
+   - Node.js (v16 or higher)
+   - npm or yarn
+
+2. **Installation**:
+   ```bash
+   npm install
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
